@@ -9,4 +9,4 @@
     
 ## Contributions 💚
 
-(https://raw.githubusercontent.com/Galibfr/Galibfr/output/github-contribution-grid-snake.svg)
+![Contributions GitHub](https://raw.githubusercontent.com/Galibfr/Galibfr/output/github-contribution-grid-snake.svg)
