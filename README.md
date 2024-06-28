@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1209785216370216980/1255140101911085056/image.png?ex=667f578f&is=667e060f&hm=104bd63b7ee2400cd1f5f21abbe673939ca18ba85a04452260e0da1c3c0d1588&">
+<img src="https://cdn.discordapp.com/attachments/1209785216370216980/1255140101911085056/image.png?ex=667f578f&is=667e060f&hm=104bd63b7ee2400cd1f5f21abbe673939ca18ba85a04452260e0da1c3c0d1588&" height="250">
 
 - 👋 Hi, I’m @Galib
 - 👀 I’m interested in travelling 
